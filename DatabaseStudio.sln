@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseStudio", "DatabaseStudio\DatabaseStudio.csproj", "{6BEDA4DC-7D03-48AC-BBB5-A75B2448E5C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utils.csproj", "{09AB3956-9E79-4CD1-8674-37E3BA572ED1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonExampleApi", "JsonExampleApi\JsonExampleApi.csproj", "{1F6684A3-A7D4-4FE8-A35E-1BD7C32C055E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbApi", "MongoDbApi\MongoDbApi.csproj", "{33C9C579-36E0-422B-A8AA-1534EA317CF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentDbApi", "DocumentDbApi\DocumentDbApi.csproj", "{15929C48-4AD7-4D8D-AD31-F8248D97AE75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamoDbApi", "DynamoDbApi\DynamoDbApi.csproj", "{FA26152E-6669-4EBD-8520-3975443BE09E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BEDA4DC-7D03-48AC-BBB5-A75B2448E5C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BEDA4DC-7D03-48AC-BBB5-A75B2448E5C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BEDA4DC-7D03-48AC-BBB5-A75B2448E5C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BEDA4DC-7D03-48AC-BBB5-A75B2448E5C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09AB3956-9E79-4CD1-8674-37E3BA572ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09AB3956-9E79-4CD1-8674-37E3BA572ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09AB3956-9E79-4CD1-8674-37E3BA572ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09AB3956-9E79-4CD1-8674-37E3BA572ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F6684A3-A7D4-4FE8-A35E-1BD7C32C055E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6684A3-A7D4-4FE8-A35E-1BD7C32C055E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6684A3-A7D4-4FE8-A35E-1BD7C32C055E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6684A3-A7D4-4FE8-A35E-1BD7C32C055E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C9C579-36E0-422B-A8AA-1534EA317CF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C9C579-36E0-422B-A8AA-1534EA317CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C9C579-36E0-422B-A8AA-1534EA317CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C9C579-36E0-422B-A8AA-1534EA317CF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15929C48-4AD7-4D8D-AD31-F8248D97AE75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15929C48-4AD7-4D8D-AD31-F8248D97AE75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15929C48-4AD7-4D8D-AD31-F8248D97AE75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15929C48-4AD7-4D8D-AD31-F8248D97AE75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA26152E-6669-4EBD-8520-3975443BE09E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA26152E-6669-4EBD-8520-3975443BE09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA26152E-6669-4EBD-8520-3975443BE09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA26152E-6669-4EBD-8520-3975443BE09E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8
+	EndGlobalSection
+EndGlobal
