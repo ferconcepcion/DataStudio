@@ -30,7 +30,7 @@ namespace DatabaseStudio
 
         private void linkWebProject_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start(new ProcessStartInfo("http://www.fconcepcion.com/"));
+            Process.Start(new ProcessStartInfo("http://www.fconcepcion.com/Projects/Project/1"));
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)

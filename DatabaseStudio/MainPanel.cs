@@ -481,7 +481,7 @@ namespace DatabaseStudio
 
         private void officialDocumentationToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Process.Start(new ProcessStartInfo("http://www.fconcepcion.com/"));
+            Process.Start(new ProcessStartInfo("http://www.fconcepcion.com/Projects/Project/1"));
         }
 
         private void GitHubToolStripMenuItem_Click(object sender, EventArgs e)

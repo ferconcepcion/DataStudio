@@ -113,7 +113,7 @@
             this.lblAboutProgramText.ForeColor = System.Drawing.Color.DarkKhaki;
             this.lblAboutProgramText.Location = new System.Drawing.Point(67, 94);
             this.lblAboutProgramText.Name = "lblAboutProgramText";
-            this.lblAboutProgramText.Size = new System.Drawing.Size(354, 91);
+            this.lblAboutProgramText.Size = new System.Drawing.Size(353, 91);
             this.lblAboutProgramText.TabIndex = 7;
             this.lblAboutProgramText.Text = resources.GetString("lblAboutProgramText.Text");
             // 
@@ -125,7 +125,7 @@
             this.lblAboutMeText.ForeColor = System.Drawing.Color.DarkKhaki;
             this.lblAboutMeText.Location = new System.Drawing.Point(504, 94);
             this.lblAboutMeText.Name = "lblAboutMeText";
-            this.lblAboutMeText.Size = new System.Drawing.Size(366, 182);
+            this.lblAboutMeText.Size = new System.Drawing.Size(401, 169);
             this.lblAboutMeText.TabIndex = 8;
             this.lblAboutMeText.Text = resources.GetString("lblAboutMeText.Text");
             // 

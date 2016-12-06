@@ -118,31 +118,28 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="lblAboutProgramText.Text" xml:space="preserve">
-    <value>Data Studio is a open code project to play and investigate
-with NoSQL different databases. 
-With this program you can create collections and documents,
-work with some operations, execute some simple queries 
-and save your work in a json file.
-Finally, you can download and check the source code to 
-learn about interesting patterns of data access.
-</value>
+    <value>Data Studio is a personal open code project to play and
+investigate using NoSQL different databases. 
+This program allows creating collections and documents,
+managing diverse operations, executing some simple queries 
+and saving your work in a json file.
+Finally, it's possible to download and check the source code
+to learn about interesting patterns of data access.</value>
   </data>
   <data name="lblAboutMeText.Text" xml:space="preserve">
-    <value>I´m Fernando Concepción Gutiérrez, Senior Computer Engineer,
-titulated from "Universidad Complutense de Madrid" and  a 
-specialist and lover of Microsoft technologies.
-From the beginning of my career, I have specialized me in
-Microsoft technologies and in architectures, especially in the
-.NET framework.
-I´m interested about architectures, their designs, their
-development phases, design patterns, clean programming,
-database design, management and use; but also I´m 
-interested about relational and non-relational databases, their 
-use with Entity Framework and Code First, MVC, Web Api,
-Azure, good practices, design patterns (dependency 
-management, layer separation, clean code ...).
-
-</value>
+    <value>I am Fernando Concepción Gutiérrez, Senior Computer Engineer,
+titulated from "Universidad Complutense de Madrid" and a Microsoft
+technologies specialist and lover.
+Since the beginning of my career, I'm specialized in Microsoft
+technologies and in architectures, especially within the .NET
+framework.
+I´m interested in architectures,and in their designs, development
+phases, good practices, design patterns ,dependency management,
+layer separation, clean code ... I am also interested in technologies
+as MVC, Web Api or Azure.
+To conclude, I like working with  relational and non-relational
+databases, so I have some experience with database design, 
+management and with their use with Entity Framework and Code First.</value>
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="$this.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
